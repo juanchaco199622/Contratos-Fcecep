@@ -1,0 +1,126 @@
+[15-Nov-2017 16:01:13 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 16
+[15-Nov-2017 16:02:36 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 16
+[15-Nov-2017 16:02:46 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 16
+[15-Nov-2017 16:02:53 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 16
+[15-Nov-2017 16:04:51 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 16
+[15-Nov-2017 16:07:38 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 16
+[15-Nov-2017 16:09:38 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 13
+[15-Nov-2017 16:09:56 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 13
+[15-Nov-2017 16:10:55 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 13
+[15-Nov-2017 16:11:00 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 13
+[15-Nov-2017 16:17:11 UTC] PHP Parse error:  syntax error, unexpected ''Reporte de Estados'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/jmunoz/public_html/contratos/php/informes/informe1.php on line 13
+[15-Nov-2017 16:18:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 16:18:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 21
+[15-Nov-2017 16:50:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 16:50:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 21
+[15-Nov-2017 19:05:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:05:54 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root_cecep'@'p3plcpnl0547.prod.phx3.secureserver.net' (using password: NO) in /home/jmunoz/public_html/contratos/php/informes/conexion.php on line 2
+[15-Nov-2017 19:06:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:06:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root_cecep'@'p3plcpnl0547.prod.phx3.secureserver.net' (using password: YES) in /home/jmunoz/public_html/contratos/php/informes/conexion.php on line 2
+[15-Nov-2017 19:06:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:06:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 21
+[15-Nov-2017 19:06:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:06:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 21
+[15-Nov-2017 19:06:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:06:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 21
+[15-Nov-2017 19:06:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 21
+[15-Nov-2017 19:07:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:09:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:09:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 23
+[15-Nov-2017 19:10:37 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:10:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 23
+[15-Nov-2017 19:10:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 23
+[15-Nov-2017 19:11:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:11:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:13:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:13:46 UTC] PHP Notice:  Undefined index: descripcion_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 31
+[15-Nov-2017 19:13:46 UTC] PHP Notice:  Undefined index: fecha_inicio_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 32
+[15-Nov-2017 19:13:46 UTC] PHP Notice:  Undefined index: fecha_fin_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 33
+[15-Nov-2017 19:13:46 UTC] PHP Notice:  Undefined index: descripcion_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 31
+[15-Nov-2017 19:13:46 UTC] PHP Notice:  Undefined index: fecha_inicio_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 32
+[15-Nov-2017 19:13:46 UTC] PHP Notice:  Undefined index: fecha_fin_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 33
+[15-Nov-2017 19:14:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:14:26 UTC] PHP Notice:  Undefined index: descripcion_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 31
+[15-Nov-2017 19:14:26 UTC] PHP Notice:  Undefined index: fecha_inicio_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 32
+[15-Nov-2017 19:14:26 UTC] PHP Notice:  Undefined index: fecha_fin_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 33
+[15-Nov-2017 19:14:26 UTC] PHP Notice:  Undefined index: descripcion_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 31
+[15-Nov-2017 19:14:26 UTC] PHP Notice:  Undefined index: fecha_inicio_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 32
+[15-Nov-2017 19:14:26 UTC] PHP Notice:  Undefined index: fecha_fin_contrato in /home/jmunoz/public_html/contratos/php/informes/index.php on line 33
+[15-Nov-2017 19:16:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:17:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:17:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:17:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:18:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:21:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:27:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:27:07 UTC] PHP Warning:  include(/home/jmunoz/public_html/contratos/php/informes/font/helveticaa.php): failed to open stream: No such file or directory in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 1145
+[15-Nov-2017 19:27:07 UTC] PHP Warning:  include(): Failed opening '/home/jmunoz/public_html/contratos/php/informes/font/helveticaa.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 1145
+[15-Nov-2017 19:27:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:31:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:35:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:53:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 32
+[15-Nov-2017 19:54:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:54:42 UTC] PHP Notice:  Undefined index: estado in /home/jmunoz/public_html/contratos/php/informes/index.php on line 30
+[15-Nov-2017 19:54:42 UTC] PHP Notice:  Undefined index: nombre_empresa in /home/jmunoz/public_html/contratos/php/informes/index.php on line 31
+[15-Nov-2017 19:55:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:55:31 UTC] PHP Notice:  Undefined index: estado in /home/jmunoz/public_html/contratos/php/informes/index.php on line 30
+[15-Nov-2017 19:55:31 UTC] PHP Notice:  Undefined index: nombre_empresa in /home/jmunoz/public_html/contratos/php/informes/index.php on line 31
+[15-Nov-2017 19:56:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:56:07 UTC] PHP Notice:  Undefined index: estado in /home/jmunoz/public_html/contratos/php/informes/index.php on line 30
+[15-Nov-2017 19:56:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:56:39 UTC] PHP Notice:  Undefined index: estado in /home/jmunoz/public_html/contratos/php/informes/index.php on line 30
+[15-Nov-2017 19:56:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:56:58 UTC] PHP Notice:  Undefined index: estado in /home/jmunoz/public_html/contratos/php/informes/index.php on line 30
+[15-Nov-2017 19:57:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 19:57:10 UTC] PHP Notice:  Undefined index: estado in /home/jmunoz/public_html/contratos/php/informes/index.php on line 30
+[15-Nov-2017 22:30:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 22:30:40 UTC] PHP Notice:  Undefined index: estado in /home/jmunoz/public_html/contratos/php/informes/index.php on line 30
+[15-Nov-2017 22:30:40 UTC] PHP Notice:  Undefined index: estado in /home/jmunoz/public_html/contratos/php/informes/index.php on line 30
+[15-Nov-2017 22:33:38 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 22:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/jmunoz/public_html/contratos/php/informes/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/informes/index.php on line 28
+[15-Nov-2017 22:34:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 22:34:09 UTC] PHP Notice:  Undefined index: estado in /home/jmunoz/public_html/contratos/php/informes/index.php on line 33
+[15-Nov-2017 22:34:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 23:50:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 23:58:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 23:59:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[15-Nov-2017 23:59:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[16-Nov-2017 00:06:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[16-Nov-2017 00:23:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12
+[16-Nov-2017 00:39:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/jmunoz/public_html/contratos/php/informes/fpdf.php on line 12

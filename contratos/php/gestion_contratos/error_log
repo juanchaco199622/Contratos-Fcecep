@@ -1,0 +1,199 @@
+[27-Oct-2017 20:17:07 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 64
+[09-Nov-2017 01:28:39 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 63
+[15-Nov-2017 04:19:51 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 63
+[15-Nov-2017 04:26:45 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 63
+[15-Nov-2017 04:29:40 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 63
+[15-Nov-2017 04:45:57 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 63
+[15-Nov-2017 04:46:18 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 63
+[15-Nov-2017 04:50:23 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 63
+[15-Nov-2017 20:13:17 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 63
+[15-Nov-2017 22:23:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:23:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:23:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:23:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:23:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:25:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:25:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:26:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:26:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:26:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:26:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:26:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:28:15 UTC] PHP Notice:  Undefined variable: listadoEmpresas in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 123
+[15-Nov-2017 22:28:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 123
+[15-Nov-2017 22:29:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:29:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:29:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:29:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:29:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:29:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:29:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/nuevoContrato.php on line 7
+[15-Nov-2017 22:30:26 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 67
+[15-Nov-2017 23:50:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:50:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:50:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:51:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:52:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:29 UTC] PHP Warning:  require_once(../emrpresa/empresa_modelo.php): failed to open stream: No such file or directory in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:29 UTC] PHP Fatal error:  require_once(): Failed opening required '../emrpresa/empresa_modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:30 UTC] PHP Warning:  require_once(../emrpresa/empresa_modelo.php): failed to open stream: No such file or directory in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../emrpresa/empresa_modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:30 UTC] PHP Warning:  require_once(../emrpresa/empresa_modelo.php): failed to open stream: No such file or directory in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../emrpresa/empresa_modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:30 UTC] PHP Warning:  require_once(../emrpresa/empresa_modelo.php): failed to open stream: No such file or directory in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../emrpresa/empresa_modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:30 UTC] PHP Warning:  require_once(../emrpresa/empresa_modelo.php): failed to open stream: No such file or directory in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../emrpresa/empresa_modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:31 UTC] PHP Warning:  require_once(../emrpresa/empresa_modelo.php): failed to open stream: No such file or directory in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../emrpresa/empresa_modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:31 UTC] PHP Warning:  require_once(../emrpresa/empresa_modelo.php): failed to open stream: No such file or directory in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../emrpresa/empresa_modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:31 UTC] PHP Warning:  require_once(../emrpresa/empresa_modelo.php): failed to open stream: No such file or directory in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../emrpresa/empresa_modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:31 UTC] PHP Warning:  require_once(../emrpresa/empresa_modelo.php): failed to open stream: No such file or directory in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../emrpresa/empresa_modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 6
+[15-Nov-2017 23:53:53 UTC] PHP Notice:  Undefined index: id_empresa in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 136
+[15-Nov-2017 23:53:53 UTC] PHP Notice:  Undefined index: id_empresa in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 138
+[15-Nov-2017 23:53:53 UTC] PHP Notice:  Undefined index: id_empresa in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 139
+[15-Nov-2017 23:53:53 UTC] PHP Notice:  Undefined index: id_empresa in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 136
+[15-Nov-2017 23:53:53 UTC] PHP Notice:  Undefined index: id_empresa in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 138
+[15-Nov-2017 23:53:53 UTC] PHP Notice:  Undefined index: id_empresa in /home/jmunoz/public_html/contratos/php/gestion_contratos/editarContratos.php on line 139
+[15-Nov-2017 23:55:28 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 84
+[15-Nov-2017 23:55:47 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 84
+[15-Nov-2017 23:56:23 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 67
+[15-Nov-2017 23:59:52 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 84
+[16-Nov-2017 00:35:36 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 67
+[16-Nov-2017 00:36:08 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 67
+[16-Nov-2017 00:36:19 UTC] PHP Notice:  Undefined variable: nombre_proveedor in /home/jmunoz/public_html/contratos/php/gestion_contratos/modelo_gestion_contratos.php on line 84

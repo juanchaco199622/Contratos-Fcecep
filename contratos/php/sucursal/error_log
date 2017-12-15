@@ -1,0 +1,5 @@
+
+[05-Nov-2017 00:23:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jmunoz/public_html/contratos/php/sucursal/sucursal_modelo.php on line 54
+[05-Nov-2017 00:23:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jmunoz/public_html/contratos/php/sucursal/sucursal_modelo.php on line 55
+[16-Nov-2017 00:30:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jmunoz/public_html/contratos/php/sucursal/sucursal_modelo.php on line 66
+[16-Nov-2017 00:30:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jmunoz/public_html/contratos/php/sucursal/sucursal_modelo.php on line 67

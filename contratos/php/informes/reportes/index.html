@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>HTML PDF API - Example page</title>
+	<style type="text/css">
+
+	/*Embeaded font :-)*/
+  @font-face {
+    font-family: 'Anton';
+    font-style: normal;
+    font-weight: 400;
+  }
+
+	body{font-family:Arial, Helvetica, sans-serif; color:#333; background:#fff; margin-left:auto; margin-right:auto; max-width:210mm; max-height:297mm;}
+
+	/*Common*/
+	.clear{clear:both;}
+	.blue{color:#0099CC;}
+
+	h1,
+	h2{color:#0099CC; margin-bottom:0; font-weight: normal;}
+	p{margin-top:0;}
+
+
+	/*Head*/
+	#head{text-align:center; margin-bottom:5em;}
+	#head img{margin:1em 0; width:7cm;}
+	#head .line{font-size:1.4em; font-style: italic; color:#999;}
+
+	/*Features*/
+	h1.features{text-align: center; border-bottom:1px solid #ccc; font-family:Anton, sans-serif; text-transform: uppercase;}
+	.feature{float:left; width:45%;}
+	.feature h2{font-size:1.1em; text-transform: uppercase;}
+	.feature p{color:#555;}
+	.feature:nth-child(even){float:right;}
+
+
+
+	</style>
+</head>
+<body>
+
+	<div id="head">
+		<!-- Embeaded image :-) -->
+		<img alt="HTML PDF API logo" src="" />
+		<p class="line">converts your HTML to PDF</p>
+	</div>
+
+
+
+	<h1 class="features">Features</h1>
+
+	<div id="features">
+
+		<div class="feature">
+			<h2>Web fonts</h2>
+			<p>Support for custom fonts: otf, ttf and woff.</p>
+		</div>
+
+		<div class="feature">
+			<h2>Base64</h2>
+			<p>Base64 support for images and fonts.</p>
+		</div>
+
+		<br class="clear" />
+
+		<div class="feature">
+			<h2>Font kerning</h2>
+			<p>Font in your PDF will have perfect letter spacing.</p>
+		</div>
+
+		<div class="feature">
+			<h2>Header/Footer</h2>
+			<p>Support for real headers and footers.</p>
+		</div>
+
+
+		<br class="clear" />
+
+		<div class="feature">
+			<h2>CSS and Javascript</h2>
+			<p>HTML PDF API supports CSS2, CSS3 (partially) and Javascript.</p>
+		</div>
+
+		<div class="feature">
+			<h2>URL, FILE or HTML string</h2>
+			<p>We support all conversion types.</p>
+		</div>
+
+
+		<br class="clear" />
+
+		<div class="feature">
+			<h2>RESTFUL API</h2>
+			<p>Our PDF API supports any language that can send HTTP requests.</p>
+		</div>
+
+		<div class="feature">
+			<h2>Assets</h2>
+			<p>Speed up PDF exports by uploading frequently used files to the server.</p>
+		</div>
+
+
+	</div>
+
+</body>
+</html>
